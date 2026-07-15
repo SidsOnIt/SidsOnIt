@@ -15,7 +15,8 @@ jobs:
       - name: Top Languages Metric
         uses: lowlighter/metrics@latest
         with:
-          # Use your secret named "RW"
+          # Use your Classic PAT with 'repo' scope
+          # Ensure this token is authorized for your organization
           token: ${{ secrets.RW }}
           
           # Options
@@ -25,10 +26,10 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_details: bytes-size, percentage
-          plugin_languages_indepth: yes # Analyzes private code
+          plugin_languages_indepth: yes # Essential for scanning private repo code
           
-          # Configuration to display all languages
-          plugin_languages_limit: 0        # 0 disables the display limit
-          plugin_languages_threshold: 0%   # 0% ensures no languages are filtered out
+          # Force display of all identified languages
+          plugin_languages_limit: 0
+          plugin_languages_threshold: 0%
           
           debug: no
