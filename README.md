@@ -6,5 +6,7 @@
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px;">
   <div style="display: flex; flex-direction: column; Justify-content: center; align-items: center; gap: 20px;">
     <img style="width: 50px; height: 50px;" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/rust/default.svg">
+    <h3>Rust</h3>
   </div>
+  
 </div>
