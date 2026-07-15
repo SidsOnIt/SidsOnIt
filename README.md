@@ -4,7 +4,7 @@
 </div>
 <h3> "Languages" </h3>
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px;">
-  <div style="display: flex; flex-direction: column; Justify-content: center; align-items: center; gap: 20px; width: 50px; height: 50px;">
-    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/rust/default.svg">
+  <div style="display: flex; flex-direction: column; Justify-content: center; align-items: center; gap: 20px;">
+    <img style="width: 50px; height: 50px;" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/rust/default.svg">
   </div>
 </div>
