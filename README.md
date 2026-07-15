@@ -6,10 +6,8 @@
 <div align="center">
   
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/rust/default.svg" width="50" alt="Rust" />
-  <br>Rust
 
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/dart/default.svg" width="50" alt="Dart" />
-  <br>Dart
 
 </div>
 
