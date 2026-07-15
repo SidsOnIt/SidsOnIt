@@ -3,8 +3,26 @@
   <img src="profile-summary-card-output/2077/2-most-commit-language.svg" alt="Most Commit Language" width="33%" />
 </div>
 
+<br>
+
+<p align="center">
+  <em>"Spun up from the server rack to the browser. Just a fellow homelabber constantly tinkering, breaking, deploying, and fixing things. Here's the stack running the show:"</em>
+</p>
+
 <table>
-  <!-- Section: Languages (11 columns total: 1 title + 10 icons) -->
+  <!-- Section: Favorites (12 columns total: 1 title, 6 used, 5 padded) -->
+  <tr>
+    <td valign="middle" align="left"><h3>Favorites</h3></td>
+    <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/rust/default.svg" height="40" width="40" alt="Rust" /><br>Rust</td>
+    <td align="center" width="70" style="line-height: 1;"><img src="https://avatars.githubusercontent.com/u/79236386?s=280&v=4" height="40" width="40" alt="Dioxus" /><br>Dioxus</td>
+    <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/surrealdb/default.svg" height="40" width="40" alt="SurrealDB" /><br>SurrealDB</td>
+    <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.simpleicons.org/proxmox/E57000" height="40" width="40" alt="Proxmox" /><br>Proxmox</td>
+    <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" width="40" alt="Docker" /><br>Docker</td>
+    <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" height="40" width="40" alt="Windows" /><br>Windows</td>
+    <td colspan="5"></td> <!-- Invisible padding block -->
+  </tr>
+
+  <!-- Section: Languages (12 columns total: 1 title, 11 used, 0 padded) -->
   <tr>
     <td valign="middle" align="left"><h3>Languages</h3></td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/rust/default.svg" height="40" width="40" alt="Rust" /><br>Rust</td>
@@ -17,9 +35,10 @@
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/azure-sql-database/default.svg" height="40" width="40" alt="SQL" /><br>SQL</td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/html5/default.svg" height="40" width="40" alt="HTML" /><br>HTML</td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/css/default.svg" height="40" width="40" alt="CSS" /><br>CSS</td>
+    <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="40" alt="Git" /><br>Git</td>
   </tr>
 
-  <!-- Section: Platforms (11 columns total: 1 title + 10 icons) -->
+  <!-- Section: Platforms (12 columns total: 1 title, 11 used, 0 padded) -->
   <tr>
     <td valign="middle" align="left"><h3>Platforms</h3></td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.simpleicons.org/proxmox/E57000" height="40" width="40" alt="Proxmox" /><br>Proxmox</td>
@@ -32,23 +51,38 @@
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.simpleicons.org/ios/000000" height="40" width="40" alt="iOS" /><br>iOS</td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.simpleicons.org/w3c/005A9C" height="40" width="40" alt="Web" /><br>Web</td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.simpleicons.org/arduino/00979D" height="40" width="40" alt="Embedded" /><br>Embedded</td>
+    <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.simpleicons.org/truenas/0095D5" height="40" width="40" alt="TrueNAS" /><br>TrueNAS</td>
   </tr>
 
-  <!-- Section: UI Frameworks (11 columns total: 4 used, 7 padded) -->
+  <!-- Section: UI Frameworks (12 columns total: 1 title, 3 used, 8 padded) -->
   <tr>
     <td valign="middle" align="left"><h3>UI Frameworks</h3></td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://avatars.githubusercontent.com/u/79236386?s=280&v=4" height="40" width="40" alt="Dioxus" /><br>Dioxus</td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/flutter/default.svg" height="40" width="40" alt="Flutter" /><br>Flutter</td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://flet.dev/img/logo.svg" height="40" width="40" alt="Flet" /><br>Flet</td>
-    <td colspan="7"></td> <!-- Invisible padding block -->
+    <td colspan="8"></td> <!-- Invisible padding block -->
   </tr>
 
-  <!-- Section: Databases (11 columns total: 4 used, 7 padded) -->
+  <!-- Section: Databases (12 columns total: 1 title, 3 used, 8 padded) -->
   <tr>
     <td valign="middle" align="left"><h3>Databases</h3></td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/postgresql/default.svg" height="40" width="40" alt="Postgres" /><br>Postgres</td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://skillicons.dev/icons?i=sqlite" height="40" width="40" alt="Sqlite" /><br>SQLite</td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/surrealdb/default.svg" height="40" width="40" alt="SurrealDB" /><br>SurrealDB</td>
-    <td colspan="7"></td> <!-- Invisible padding block -->
+    <td colspan="8"></td> <!-- Invisible padding block -->
   </tr>
 </table>
+
+<br>
+
+<h3>Creative & Other Tools</h3>
+<p align="left">
+  <!-- These will auto-wrap natively. Hover over them to see the tool names! -->
+  <img src="https://cdn.simpleicons.org/affinity/000000" width="30" title="Affinity" alt="Affinity" style="margin: 5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" width="30" title="GIMP" alt="GIMP" style="margin: 5px;">
+  <img src="https://cdn.simpleicons.org/wondershare/000000" width="30" title="Filmora" alt="Filmora" style="margin: 5px;">
+  <img src="https://cdn.simpleicons.org/davinciresolve/000000" width="30" title="DaVinci Resolve" alt="DaVinci Resolve" style="margin: 5px;">
+  <img src="https://cdn.simpleicons.org/plasticity/000000" width="30" title="Plasticity" alt="Plasticity" style="margin: 5px;">
+  <img src="https://cdn.simpleicons.org/flstudio/FF8B00" width="30" title="FL Studio" alt="FL Studio" style="margin: 5px;">
+  <img src="https://cdn.simpleicons.org/obsstudio/302E31" width="30" title="OBS Studio" alt="OBS Studio" style="margin: 5px;">
+</p>
