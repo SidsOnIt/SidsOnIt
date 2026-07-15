@@ -3,7 +3,7 @@
   <img src="profile-summary-card-output/2077/2-most-commit-language.svg" alt="Most Commit Language" width="33%" />
 </div>
 
-<div align="center">
+<div style="display: flex; flex-direction: column;">
   
   <!-- Icon 1 -->
   <a href="https://www.rust-lang.org/">
