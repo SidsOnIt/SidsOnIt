@@ -5,6 +5,6 @@
 <h3> "Languages" </h3>
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px;">
   <div style="display: flex; flex-direction: column; Justify-content: center; align-items: center; gap: 20px;">
-    <img src="[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)">
+    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/rust/default.svg">
   </div>
 </div>
