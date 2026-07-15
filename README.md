@@ -3,8 +3,6 @@
   <img src="profile-summary-card-output/2077/2-most-commit-language.svg" alt="Most Commit Language" width="33%" />
 </div>
 
-<h3>Languages</h3>
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/rust/default.svg" height="50" width="50" alt="Rust" />
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/dart/default.svg" height="50" width="50" alt="Dart" />
@@ -29,8 +27,6 @@
   </tr>
 </table>
 
-<h3>UI Frameworks</h3>
-
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/79236386?s=280&v=4" height="50" width="50" alt="Dioxus" />
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/flutter/default.svg" height="50" width="50" alt="Flutter" />
@@ -44,8 +40,6 @@
     <td><strong>Flet</strong></td>
   </tr>
 </table>
-
-<h3>Databases</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/postgresql/default.svg" height="50" width="50" alt="Postgres" />
