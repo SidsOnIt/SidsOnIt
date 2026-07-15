@@ -4,7 +4,6 @@
 </div>
 
 <div align="center">
-  
 
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/rust/default.svg" height="50" width="50" alt="Rust" />
 
@@ -24,8 +23,10 @@
 
 </div>
 
-<h3>Languages</h3>
-rust dart python powershell bash sql html css
+<div align="center">
+  <p style="text-align: center; font-weight: bold; height: 10; width: 50;" > Rust </p>
+</div>
+
 
 <h3>Frameworks</h3>
 dioxus flutter flet
