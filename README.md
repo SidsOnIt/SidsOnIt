@@ -1,78 +1,74 @@
-<table>
+<table width="100%">
   <!-- Section: Favorites (Standalone table at the top) -->
   <tr>
     <td valign="middle" align="left"><h3>Favorites</h3></td>
-    <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/rust/default.svg" height="40" width="40" alt="Rust" /><br>Rust</td>
-    <td align="center" width="70" style="line-height: 1;"><img src="https://avatars.githubusercontent.com/u/79236386?s=280&v=4" height="40" width="40" alt="Dioxus" /><br>Dioxus</td>
-    <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/surrealdb/default.svg" height="40" width="40" alt="SurrealDB" /><br>SurrealDB</td>
-    <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.simpleicons.org/proxmox/E57000" height="40" width="40" alt="Proxmox" /><br>Proxmox</td>
-    <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" height="40" width="40" alt="Windows" /><br>Windows</td>
-    <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/android/default.svg" height="40" width="40" alt="Android" /><br>Android</td>
+    <td align="center" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/rust/default.svg" height="40" width="40" alt="Rust" /><br>Rust</td>
+    <td align="center" style="line-height: 1;"><img src="https://avatars.githubusercontent.com/u/79236386?s=280&v=4" height="40" width="40" alt="Dioxus" /><br>Dioxus</td>
+    <td align="center" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/surrealdb/default.svg" height="40" width="40" alt="SurrealDB" /><br>SurrealDB</td>
+    <td align="center" style="line-height: 1;"><img src="https://cdn.simpleicons.org/proxmox/E57000" height="40" width="40" alt="Proxmox" /><br>Proxmox</td>
+    <td align="center" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" height="40" width="40" alt="Windows" /><br>Windows</td>
+    <td align="center" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/android/default.svg" height="40" width="40" alt="Android" /><br>Android</td>
   </tr>
 </table>
 
-<br>
-
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px;">
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px; margin: 15px 0;">
   <img src="profile-summary-card-output/2077/0-profile-details.svg" alt="Profile Details" width="66.5%" />
   <img src="profile-summary-card-output/2077/2-most-commit-language.svg" alt="Most Commit Language" width="32.5%" />
 </div>
 
-<br>
-
-<p align="center">
+<p align="center" style="margin-bottom: 15px;">
   <em>"Imagine Windows delcarative like NixOS but easy..."</em>
 </p>
 
-<table>
+<table width="100%">
   <!-- Section: Languages (12 columns total: 1 title, 11 icons, 0 padded) -->
   <tr>
     <td valign="middle" align="left"><h3>Languages</h3></td>
-    <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/rust/default.svg" height="40" width="40" alt="Rust" /><br>Rust</td>
-    <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/dart/default.svg" height="40" width="40" alt="Dart" /><br>Dart</td>
-    <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/python/default.svg" height="40" width="40" alt="Python" /><br>Python</td>
-    <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/nixos/default.svg" height="40" width="40" alt="Nix" /><br>Nix</td>
-    <td align="center" width="70" style="line-height: 1;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_of_nushell_shell.svg/1280px-Logo_of_nushell_shell.svg.png" height="40" width="40" alt="NuShell" /><br>NuShell</td>
-    <td align="center" width="70" style="line-height: 1;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/PowerShell_5.0_icon.png/250px-PowerShell_5.0_icon.png" height="40" width="40" alt="PowerShell" /><br>PowerShell</td>
-    <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/bash/default.svg" height="40" width="40" alt="Bash" /><br>Bash</td>
-    <td align="center" width="70" style="line-height: 1;"><img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" height="40" width="40" alt="SQL" /><br>SQL</td>
-    <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/html5/default.svg" height="40" width="40" alt="HTML" /><br>HTML</td>
-    <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/css/default.svg" height="40" width="40" alt="CSS" /><br>CSS</td>
-    <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="40" alt="Git" /><br>Git</td>
+    <td align="center" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/rust/default.svg" height="40" width="40" alt="Rust" /><br>Rust</td>
+    <td align="center" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/dart/default.svg" height="40" width="40" alt="Dart" /><br>Dart</td>
+    <td align="center" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/python/default.svg" height="40" width="40" alt="Python" /><br>Python</td>
+    <td align="center" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/nixos/default.svg" height="40" width="40" alt="Nix" /><br>Nix</td>
+    <td align="center" style="line-height: 1;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_of_nushell_shell.svg/1280px-Logo_of_nushell_shell.svg.png" height="40" width="40" alt="NuShell" /><br>NuShell</td>
+    <td align="center" style="line-height: 1;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/PowerShell_5.0_icon.png/250px-PowerShell_5.0_icon.png" height="40" width="40" alt="PowerShell" /><br>PowerShell</td>
+    <td align="center" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/bash/default.svg" height="40" width="40" alt="Bash" /><br>Bash</td>
+    <td align="center" style="line-height: 1;"><img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" height="40" width="40" alt="SQL" /><br>SQL</td>
+    <td align="center" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/html5/default.svg" height="40" width="40" alt="HTML" /><br>HTML</td>
+    <td align="center" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/css/default.svg" height="40" width="40" alt="CSS" /><br>CSS</td>
+    <td align="center" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="40" alt="Git" /><br>Git</td>
   </tr>
 
   <!-- Section: Platforms (12 columns total: 1 title, 11 icons, 0 padded) -->
   <tr>
     <td valign="middle" align="left"><h3>Platforms</h3></td>
-    <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.simpleicons.org/proxmox/E57000" height="40" width="40" alt="Proxmox" /><br>Proxmox</td>
-    <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.simpleicons.org/truenas/0095D5" height="40" width="40" alt="TrueNAS" /><br>TrueNAS</td>
-    <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" height="40" width="40" alt="Debian" /><br>Debian</td>
-    <td align="center" width="70" style="line-height: 1;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/1280px-UbuntuCoF.svg.png" height="40" width="40" alt="Ubuntu" /><br>Ubuntu</td>
-    <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/nixos/default.svg" height="40" width="40" alt="NixOS" /><br>NixOS</td>
-    <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" height="40" width="40" alt="Windows" /><br>Windows</td>
-     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/android/default.svg" height="40" width="40" alt="Android" /><br>Android</td>
-    <td align="center" width="70" style="line-height: 1;"><img src="https://i.namu.wiki/i/948Ra4V8MZhMIsdgOa_CX7n3xCleKdKDTIXoUp3iymvqQbb5CNkd_N-_kQvbY8j9Sn5GAyboc-pFH6eoNI7c8Q.webp" height="40" width="40" alt="macOS" /><br>macOS</td>
-    <td align="center" width="70" style="line-height: 1;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/IOS_logo.svg/3840px-IOS_logo.svg.png" height="40" width="40" alt="iOS" /><br>iOS</td>
-    <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/internetexplorer/default.svg" height="40" width="40" alt="Web" /><br>Web</td>
-    <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/docker/default.svg" height="40" width="40" alt="Web" /><br>Docker</td>
-    <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/espressif/default.svg" height="40" width="40" alt="Embedded" /><br>Embedded</td>
+    <td align="center" style="line-height: 1;"><img src="https://cdn.simpleicons.org/proxmox/E57000" height="40" width="40" alt="Proxmox" /><br>Proxmox</td>
+    <td align="center" style="line-height: 1;"><img src="https://cdn.simpleicons.org/truenas/0095D5" height="40" width="40" alt="TrueNAS" /><br>TrueNAS</td>
+    <td align="center" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" height="40" width="40" alt="Debian" /><br>Debian</td>
+    <td align="center" style="line-height: 1;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/1280px-UbuntuCoF.svg.png" height="40" width="40" alt="Ubuntu" /><br>Ubuntu</td>
+    <td align="center" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/nixos/default.svg" height="40" width="40" alt="NixOS" /><br>NixOS</td>
+    <td align="center" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" height="40" width="40" alt="Windows" /><br>Windows</td>
+    <td align="center" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/android/default.svg" height="40" width="40" alt="Android" /><br>Android</td>
+    <td align="center" style="line-height: 1;"><img src="https://i.namu.wiki/i/948Ra4V8MZhMIsdgOa_CX7n3xCleKdKDTIXoUp3iymvqQbb5CNkd_N-_kQvbY8j9Sn5GAyboc-pFH6eoNI7c8Q.webp" height="40" width="40" alt="macOS" /><br>macOS</td>
+    <td align="center" style="line-height: 1;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/IOS_logo.svg/3840px-IOS_logo.svg.png" height="40" width="40" alt="iOS" /><br>iOS</td>
+    <td align="center" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/internetexplorer/default.svg" height="40" width="40" alt="Web" /><br>Web</td>
+    <td align="center" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/docker/default.svg" height="40" width="40" alt="Web" /><br>Docker</td>
+    <td align="center" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/espressif/default.svg" height="40" width="40" alt="Embedded" /><br>Embedded</td>
   </tr>
 
   <!-- Section: UI Frameworks (12 columns total: 1 title, 3 used, 8 padded) -->
   <tr>
     <td valign="middle" align="left"><h3>UI Frameworks</h3></td>
-    <td align="center" width="70" style="line-height: 1;"><img src="https://avatars.githubusercontent.com/u/79236386?s=280&v=4" height="40" width="40" alt="Dioxus" /><br>Dioxus</td>
-    <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/flutter/default.svg" height="40" width="40" alt="Flutter" /><br>Flutter</td>
-    <td align="center" width="70" style="line-height: 1;"><img src="https://flet.dev/img/logo.svg" height="40" width="40" alt="Flet" /><br>Flet</td>
+    <td align="center" style="line-height: 1;"><img src="https://avatars.githubusercontent.com/u/79236386?s=280&v=4" height="40" width="40" alt="Dioxus" /><br>Dioxus</td>
+    <td align="center" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/flutter/default.svg" height="40" width="40" alt="Flutter" /><br>Flutter</td>
+    <td align="center" style="line-height: 1;"><img src="https://flet.dev/img/logo.svg" height="40" width="40" alt="Flet" /><br>Flet</td>
     <td colspan="9"></td> <!-- Invisible padding block -->
   </tr>
 
   <!-- Section: Databases (12 columns total: 1 title, 3 used, 8 padded) -->
   <tr>
     <td valign="middle" align="left"><h3>Databases</h3></td>
-    <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/postgresql/default.svg" height="40" width="40" alt="Postgres" /><br>Postgres</td>
-    <td align="center" width="70" style="line-height: 1;"><img src="https://skillicons.dev/icons?i=sqlite" height="40" width="40" alt="Sqlite" /><br>SQLite</td>
-    <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/surrealdb/default.svg" height="40" width="40" alt="SurrealDB" /><br>SurrealDB</td>
+    <td align="center" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/postgresql/default.svg" height="40" width="40" alt="Postgres" /><br>Postgres</td>
+    <td align="center" style="line-height: 1;"><img src="https://skillicons.dev/icons?i=sqlite" height="40" width="40" alt="Sqlite" /><br>SQLite</td>
+    <td align="center" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/surrealdb/default.svg" height="40" width="40" alt="SurrealDB" /><br>SurrealDB</td>
     <td colspan="9"></td> <!-- Invisible padding block -->
   </tr>
 </table>
