@@ -5,9 +5,9 @@
 
 <h3> "Languages" </h3>
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px;">
-  <div style="display: flex; flex-direction: column; Justify-content: center; align-items: center; gap: 20px;">
-    <img style="width: 50px; height: 50px;" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/rust/default.svg">
-    <p style = "text-align: center;"> Rust </p>
-  </div>
+  <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/rust/default.svg" width="50" height="50" />
+  <p>Rust</p>
+</div>
   
 </div>
