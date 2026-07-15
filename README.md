@@ -7,6 +7,7 @@
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/rust/default.svg" height="50" width="50" alt="Rust" />
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/dart/default.svg" height="50" width="50" alt="Dart" />
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/python/default.svg" height="50" width="50" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/nixos/default.svg" height="50" width="50" alt="Nix" />
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/powershell/default.svg" height="50" width="50" alt="PowerShell" />
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/bash/default.svg" height="50" width="50" alt="Bash" />
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/azure-sql-database/default.svg" height="50" width="50" alt="SQL" />
@@ -19,6 +20,7 @@
     <td><strong>Rust</strong></td>
     <td><strong>Dart</strong></td>
     <td><strong>Python</strong></td>
+    <td><strong>Nix</strong></td>
     <td><strong>PowerShell</strong></td>
     <td><strong>Bash</strong></td>
     <td><strong>SQL</strong></td>
