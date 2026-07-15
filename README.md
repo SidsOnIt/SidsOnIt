@@ -1,5 +1,5 @@
 ## Hi there 👋
-![My Top Languages](./github-metrics.svg)
+![My Languages](profile-summary-card-output/language.svg)
 
 
 <!--
