@@ -47,14 +47,14 @@
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.simpleicons.org/proxmox/E57000" height="40" width="40" alt="Proxmox" /><br>Proxmox</td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.simpleicons.org/truenas/0095D5" height="40" width="40" alt="TrueNAS" /><br>TrueNAS</td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" height="40" width="40" alt="Debian" /><br>Debian</td>
-    <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="40" width="40" alt="Ubuntu" /><br>Ubuntu</td>
+    <td align="center" width="70" style="line-height: 1;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/1280px-UbuntuCoF.svg.png" height="40" width="40" alt="Ubuntu" /><br>Ubuntu</td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/nixos/default.svg" height="40" width="40" alt="NixOS" /><br>NixOS</td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" height="40" width="40" alt="Windows" /><br>Windows</td>
      <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/android/default.svg" height="40" width="40" alt="Android" /><br>Android</td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://i.namu.wiki/i/948Ra4V8MZhMIsdgOa_CX7n3xCleKdKDTIXoUp3iymvqQbb5CNkd_N-_kQvbY8j9Sn5GAyboc-pFH6eoNI7c8Q.webp" height="40" width="40" alt="macOS" /><br>macOS</td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/IOS_logo.svg/3840px-IOS_logo.svg.png" height="40" width="40" alt="iOS" /><br>iOS</td>
-    <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/azure-app-service-plans/default.svg" height="40" width="40" alt="Web" /><br>Web</td>
-    <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/internetexplorer/default.svg" height="40" width="40" alt="Web" /><br>Docker</td>
+    <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/internetexplorer/default.svg" height="40" width="40" alt="Web" /><br>Web</td>
+    <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/docker/default.svg" height="40" width="40" alt="Web" /><br>Docker</td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/espressif/default.svg" height="40" width="40" alt="Embedded" /><br>Embedded</td>
   </tr>
 
