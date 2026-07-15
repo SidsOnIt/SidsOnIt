@@ -32,6 +32,22 @@
 <h3>Frameworks</h3>
 
 <div align="center">
+  <img src="https://avatars.githubusercontent.com/u/79236386?s=280&v=4" height="50" width="50" alt="Dioxus" />
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/flutter/default.svg" height="50" width="50" alt="Flutter" />
+  <img src="https://flet.dev/img/logo.svg" height="50" width="50" alt="Flet" />
+</div>
+
+<table align="center">
+  <tr>
+    <td><strong>Dioxus</strong></td>
+    <td><strong>Flutter</strong></td>
+    <td><strong>Flet</strong></td>
+  </tr>
+</table>
+
+<h3>Databases</h3>
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/postgresql/default.svg" height="50" width="50" alt="Postgres" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="50" width="50" alt="Sqlite" />
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/surrealdb/default.svg" height="50" width="50" alt="SurrealDB" />
@@ -44,11 +60,6 @@
     <td><strong>SurrealDB</strong></td>
   </tr>
 </table>
-
-
-
-<h3>Databases</h3>
-postgres sqlite surrealdb
 
 <h3>Crates</h3>
 Tokio Sqlx Rusqlite Axum Reqwest Serde Anyhow Chrono Uuid
