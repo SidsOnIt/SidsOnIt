@@ -4,19 +4,17 @@
 </div>
 
 
-<h3> "Languages" </h3>
+<h3>Languages</h3>
 
-<!-- RUST -->
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px;">
-  
-  <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/rust/default.svg" width="50" height="50" />
-  <p>Rust</p>
-</div>
-<!-- DART -->
-  <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/dart/default.svg" width="50" height="50" />
-  <p>Dart</p>
-</div>
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/rust/default.svg" width="50" height="50" />
+      <p>Rust</p>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/dart/default.svg" width="50" height="50" />
+      <p>Dart</p>
+    </td>
+  </tr>
+</table>
