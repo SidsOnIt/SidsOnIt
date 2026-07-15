@@ -1,16 +1,3 @@
-<table width="100%">
-  <!-- Section: Favorites (Standalone table at the top) -->
-  <tr>
-    <td valign="middle" align="left"><h3>Favorites</h3></td>
-    <td align="center" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/rust/default.svg" height="40" width="40" alt="Rust" /><br>Rust</td>
-    <td align="center" style="line-height: 1;"><img src="https://avatars.githubusercontent.com/u/79236386?s=280&v=4" height="40" width="40" alt="Dioxus" /><br>Dioxus</td>
-    <td align="center" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/surrealdb/default.svg" height="40" width="40" alt="SurrealDB" /><br>SurrealDB</td>
-    <td align="center" style="line-height: 1;"><img src="https://cdn.simpleicons.org/proxmox/E57000" height="40" width="40" alt="Proxmox" /><br>Proxmox</td>
-    <td align="center" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" height="40" width="40" alt="Windows" /><br>Windows</td>
-    <td align="center" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/android/default.svg" height="40" width="40" alt="Android" /><br>Android</td>
-  </tr>
-</table>
-
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px; margin: 15px 0;">
   <img src="profile-summary-card-output/2077/0-profile-details.svg" alt="Profile Details" width="66.5%" />
   <img src="profile-summary-card-output/2077/2-most-commit-language.svg" alt="Most Commit Language" width="32.5%" />
