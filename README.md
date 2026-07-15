@@ -6,7 +6,7 @@
     <td align="center" width="70" style="line-height: 1;"><img src="https://avatars.githubusercontent.com/u/79236386?s=280&v=4" height="40" width="40" alt="Dioxus" /><br>Dioxus</td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/surrealdb/default.svg" height="40" width="40" alt="SurrealDB" /><br>SurrealDB</td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.simpleicons.org/proxmox/E57000" height="40" width="40" alt="Proxmox" /><br>Proxmox</td>
-    <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" width="40" alt="Docker" /><br>Docker</td>
+    <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/docker/default.svg" height="40" width="40" alt="Docker" /><br>Docker</td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" height="40" width="40" alt="Windows" /><br>Windows</td>
   </tr>
 </table>
@@ -52,7 +52,8 @@
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" height="40" width="40" alt="macOS" /><br>macOS</td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" height="40" width="40" alt="Android" /><br>Android</td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.simpleicons.org/ios/000000" height="40" width="40" alt="iOS" /><br>iOS</td>
-    <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.simpleicons.org/w3c/005A9C" height="40" width="40" alt="Web" /><br>Web</td>
+    <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/azure-app-service-plans/default.svg" height="40" width="40" alt="Web" /><br>Web</td>
+    <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/docker/default.svg" height="40" width="40" alt="Web" /><br>Docker</td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.simpleicons.org/arduino/00979D" height="40" width="40" alt="Embedded" /><br>Embedded</td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.simpleicons.org/truenas/0095D5" height="40" width="40" alt="TrueNAS" /><br>TrueNAS</td>
   </tr>
@@ -90,3 +91,5 @@
   <img src="https://wp-cdn.pugetsystems.com/2023/02/FL-Studio-Logo-Icon.png" width="30" title="FL Studio" alt="FL Studio" style="margin: 5px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/OBS_Studio_Logo.svg/3840px-OBS_Studio_Logo.svg.png" width="30" title="OBS Studio" alt="OBS Studio" style="margin: 5px;">
 </p>
+
+https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/ollama/default.svg
