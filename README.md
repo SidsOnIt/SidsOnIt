@@ -6,15 +6,18 @@
 
 <h3>Languages</h3>
 
-<table align="center">
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/rust/default.svg" width="50" height="50" />
-      <p>Rust</p>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/dart/default.svg" width="50" height="50" />
-      <p>Dart</p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+  <!-- Rust Icon -->
+  <div style="display: inline-block; margin: 10px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/rust/default.svg" width="50" height="50" />
+    <p style="margin: 5px 0 0 0;">Rust</p>
+  </div>
+
+  <!-- Dart Icon -->
+  <div style="display: inline-block; margin: 10px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/dart/default.svg" width="50" height="50" />
+    <p style="margin: 5px 0 0 0;">Dart</p>
+  </div>
+
+</div>
