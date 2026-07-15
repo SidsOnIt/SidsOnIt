@@ -18,6 +18,10 @@
 
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/azure-sql-database/default.svg" width="50" alt="Bash" />
 
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/html5/default.svg" width="50" alt="Bash" />
+
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/css/default.svg" width="50" alt="Bash" />
+
 </div>
 
 <h3>Languages</h3>
