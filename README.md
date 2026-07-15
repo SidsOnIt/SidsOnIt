@@ -25,6 +25,13 @@
 
 <div align="center">
   <p style="text-align: center; font-weight: bold; height: 10; width: 50;" > Rust </p>
+  <p style="text-align: center; font-weight: bold; height: 10; width: 50;" > Dart </p>
+  <p style="text-align: center; font-weight: bold; height: 10; width: 50;" > Python </p>
+  <p style="text-align: center; font-weight: bold; height: 10; width: 50;" > PowerShell </p>
+  <p style="text-align: center; font-weight: bold; height: 10; width: 50;" > Bash </p>
+  <p style="text-align: center; font-weight: bold; height: 10; width: 50;" > Sql </p>
+  <p style="text-align: center; font-weight: bold; height: 10; width: 50;" > HTML </p>
+  <p style="text-align: center; font-weight: bold; height: 10; width: 50;" > CSS </p>
 </div>
 
 
