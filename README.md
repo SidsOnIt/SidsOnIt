@@ -1,16 +1,5 @@
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px;">
-  <img src="profile-summary-card-output/2077/0-profile-details.svg" alt="Profile Details" width="66%" />
-  <img src="profile-summary-card-output/2077/2-most-commit-language.svg" alt="Most Commit Language" width="33%" />
-</div>
-
-<br>
-
-<p align="center">
-  <em>"Spun up from the server rack to the browser. Just a fellow homelabber constantly tinkering, breaking, deploying, and fixing things. Here's the stack running the show:"</em>
-</p>
-
 <table>
-  <!-- Section: Favorites (12 columns total: 1 title, 6 used, 5 padded) -->
+  <!-- Section: Favorites (Standalone table at the top) -->
   <tr>
     <td valign="middle" align="left"><h3>Favorites</h3></td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/rust/default.svg" height="40" width="40" alt="Rust" /><br>Rust</td>
@@ -19,10 +8,24 @@
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.simpleicons.org/proxmox/E57000" height="40" width="40" alt="Proxmox" /><br>Proxmox</td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" width="40" alt="Docker" /><br>Docker</td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" height="40" width="40" alt="Windows" /><br>Windows</td>
-    <td colspan="5"></td> <!-- Invisible padding block -->
   </tr>
+</table>
 
-  <!-- Section: Languages (12 columns total: 1 title, 11 used, 0 padded) -->
+<br>
+
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px;">
+  <img src="profile-summary-card-output/2077/0-profile-details.svg" alt="Profile Details" width="66%" />
+  <img src="profile-summary-card-output/2077/2-most-commit-language.svg" alt="Most Commit Language" width="33%" />
+</div>
+
+<br>
+
+<p align="center">
+  <em>"Whats in your Lab?"</em>
+</p>
+
+<table>
+  <!-- Section: Languages (12 columns total: 1 title, 11 icons, 0 padded) -->
   <tr>
     <td valign="middle" align="left"><h3>Languages</h3></td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/rust/default.svg" height="40" width="40" alt="Rust" /><br>Rust</td>
@@ -38,7 +41,7 @@
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="40" alt="Git" /><br>Git</td>
   </tr>
 
-  <!-- Section: Platforms (12 columns total: 1 title, 11 used, 0 padded) -->
+  <!-- Section: Platforms (12 columns total: 1 title, 11 icons, 0 padded) -->
   <tr>
     <td valign="middle" align="left"><h3>Platforms</h3></td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.simpleicons.org/proxmox/E57000" height="40" width="40" alt="Proxmox" /><br>Proxmox</td>
