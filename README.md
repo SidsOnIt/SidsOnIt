@@ -29,13 +29,25 @@
   </tr>
 </table>
 
-<h3>Frameworks</h3>
-
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/79236386?s=280&v=4" height="50" width="50" alt="Dioxus" />
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/flutter/default.svg" height="50" width="50" alt="Flutter" />
-  <img src="https://flet.dev/img/logo.svg" height="50" width="50" alt="Flet" />
-</div>
+<table style="width: 100%; border: none;">
+  <tr>
+    <!-- Left Side: UI Frameworks -->
+    <td align="left" style="border: none;">
+      <h3>UI Frameworks</h3>
+      <img src="https://avatars.githubusercontent.com/u/79236386?s=280&v=4" height="50" width="50" alt="Dioxus" />
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/flutter/default.svg" height="50" width="50" alt="Flutter" />
+      <img src="https://flet.dev/img/logo.svg" height="50" width="50" alt="Flet" />
+    </td>
+    
+    <!-- Right Side: Databases -->
+    <td align="right" style="border: none;">
+      <h3>Databases</h3>
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/postgresql/default.svg" height="50" width="50" alt="Postgres" />
+      <img src="https://skillicons.dev/icons?i=sqlite" height="50" width="50" alt="Sqlite" />
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/surrealdb/default.svg" height="50" width="50" alt="SurrealDB" />
+    </td>
+  </tr>
+</table>
 
 <table align="center">
   <tr>
@@ -45,13 +57,6 @@
   </tr>
 </table>
 
-<h3>Databases</h3>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/postgresql/default.svg" height="50" width="50" alt="Postgres" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="50" width="50" alt="Sqlite" />
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/surrealdb/default.svg" height="50" width="50" alt="SurrealDB" />
-</div>
 
 <table align="center">
   <tr>
