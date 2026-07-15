@@ -16,41 +16,24 @@
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/css/default.svg" height="50" width="50" alt="CSS" />
 </div>
 
-<table align="center">
+<table style="width: 100%; border: none; text-align: center;">
   <tr>
-    <td><strong>Rust</strong></td>
-    <td><strong>Dart</strong></td>
-    <td><strong>Python</strong></td>
-    <td><strong>PowerShell</strong></td>
-    <td><strong>Bash</strong></td>
-    <td><strong>SQL</strong></td>
-    <td><strong>HTML</strong></td>
-    <td><strong>CSS</strong></td>
-  </tr>
-</table>
-
-<table style="width: 100%; border: none;">
-  <tr>
-    <!-- Left Side: UI Frameworks -->
-    <td align="center" style="border: none; vertical-align: top;">
+    <!-- Left Column: UI Frameworks -->
+    <td style="width: 50%; border: none; vertical-align: top;">
       <h3>UI Frameworks</h3>
-      <!-- Images -->
       <img src="https://avatars.githubusercontent.com/u/79236386?s=280&v=4" height="50" width="50" alt="Dioxus" />
       <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/flutter/default.svg" height="50" width="50" alt="Flutter" />
-      <img src="https://flet.dev/img/logo.svg" height="50" width="50" alt="Flet" />
-      <!-- Labels -->
-      <p><strong>Dioxus&nbsp;&nbsp; Flutter&nbsp;&nbsp; Flet</strong></p>
+      <img src="https://flet.dev/img/logo.svg" height="50" width="50" alt="Flet" /><br>
+      <strong>Dioxus&nbsp;&nbsp; Flutter&nbsp;&nbsp; Flet</strong>
     </td>
     
-    <!-- Right Side: Databases -->
-    <td align="center" style="border: none; vertical-align: top;">
+    <!-- Right Column: Databases -->
+    <td style="width: 50%; border: none; vertical-align: top;">
       <h3>Databases</h3>
-      <!-- Images -->
       <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/postgresql/default.svg" height="50" width="50" alt="Postgres" />
       <img src="https://skillicons.dev/icons?i=sqlite" height="50" width="50" alt="Sqlite" />
-      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/surrealdb/default.svg" height="50" width="50" alt="SurrealDB" />
-      <!-- Labels -->
-      <p><strong>PostgreSQL&nbsp; SQLite&nbsp; SurrealDB</strong></p>
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/surrealdb/default.svg" height="50" width="50" alt="SurrealDB" /><br>
+      <strong>PostgreSQL&nbsp; SQLite&nbsp; SurrealDB</strong>
     </td>
   </tr>
 </table>
