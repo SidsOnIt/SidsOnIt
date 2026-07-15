@@ -58,7 +58,7 @@
 
 <br>
 
-<h3>Creative & Other Tools</h3
+<h3>Creative & Other Tools</h3>
 <p align="left">
   <!-- These will auto-wrap natively. Hover over them to see the tool names! -->
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/affinity/default.svg" width="30" title="Affinity" alt="Affinity" style="margin: 5px;">
