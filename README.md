@@ -1,5 +1,6 @@
 ## Hi there 👋
-![My Top Languages](https://lecoq.io)
+![My Top Languages](./github-metrics.svg)
+
 
 <!--
 **SidsOnIt/SidsOnIt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
