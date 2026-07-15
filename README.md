@@ -23,16 +23,16 @@
 
 </div>
 
-<table align="center" style="border: none;">
+<table alight="center">
   <tr>
-    <td align="center" width="50"><img src="https://via.placeholder.com/1x1.png" width="50" height="0"><br>Rust</td>
-    <td align="center" width="50"><img src="https://via.placeholder.com/1x1.png" width="50" height="0"><br>Dart</td>
-    <td align="center" width="50"><img src="https://via.placeholder.com/1x1.png" width="50" height="0"><br>Python</td>
-    <td align="center" width="50"><img src="https://via.placeholder.com/1x1.png" width="50" height="0"><br>PowerSh</td>
-    <td align="center" width="50"><img src="https://via.placeholder.com/1x1.png" width="50" height="0"><br>Bash</td>
-    <td align="center" width="50"><img src="https://via.placeholder.com/1x1.png" width="50" height="0"><br>SQL</td>
-    <td align="center" width="50"><img src="https://via.placeholder.com/1x1.png" width="50" height="0"><br>HTML</td>
-    <td align="center" width="50"><img src="https://via.placeholder.com/1x1.png" width="50" height="0"><br>CSS</td>
+    <td><strong>Rust</strong></td>
+    <td><strong>Dart</strong></td>
+    <td><strong>Python</strong></td>
+    <td><strong>PowerShell</strong></td>
+    <td><strong>Bash</strong></td>
+    <td><strong>SQL</strong></td>
+    <td><strong>HTML</strong></td>
+    <td><strong>CSS</strong></td>
   </tr>
 </table>
 
