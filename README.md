@@ -1,5 +1,5 @@
 ## Hi there 👋
-![My Languages](profile-summary-card-output/language.svg)
+![My Languages](profile-summary-card-output/2077/0-profile-details.svg)
 
 
 <!--
