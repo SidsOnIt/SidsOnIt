@@ -1,3 +1,4 @@
+> Sids Living Resume
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 25px; margin: 20px 0; padding: 15px; background-color: rgba(128, 128, 128, 0.05); border-radius: 12px;">
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/rust/default.svg" width="45" title="Rust" alt="Rust">
   <img src="https://avatars.githubusercontent.com/u/79236386?s=280&v=4" width="45" title="Dioxus" alt="Dioxus">
