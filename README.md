@@ -6,21 +6,21 @@
 <div align="center">
   
 
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/rust/default.svg" width="50" alt="Rust" />
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/rust/default.svg" height="50" width="50" alt="Rust" />
 
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/dart/default.svg" width="50" alt="Dart" />
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/dart/default.svg" height="50" width="50" alt="Dart" />
 
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/python/default.svg" width="50" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/python/default.svg" height="50" width="50" alt="Python" />
 
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/powershell/default.svg" width="50" alt="PowerShell" />
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/powershell/default.svg" height="50" width="50" alt="PowerShell" />
 
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/bash/default.svg" width="50" alt="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/bash/default.svg" height="50" width="50" alt="Bash" />
 
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/azure-sql-database/default.svg" width="50" alt="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/azure-sql-database/default.svg" height="50" width="50" alt="SQL" />
 
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/html5/default.svg" width="50" alt="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/html5/default.svg" height="50" width="50" alt="HTML" />
 
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/css/default.svg" width="50" alt="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/css/default.svg" height="50" width="50" alt="CSS" />
 
 </div>
 
