@@ -73,7 +73,7 @@
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/postgresql/default.svg" height="40" width="40" alt="Postgres" /><br>Postgres</td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://skillicons.dev/icons?i=sqlite" height="40" width="40" alt="Sqlite" /><br>SQLite</td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/surrealdb/default.svg" height="40" width="40" alt="SurrealDB" /><br>SurrealDB</td>
-    <td colspan="8"></td> <!-- Invisible padding block -->
+    <td colspan="9"></td> <!-- Invisible padding block -->
   </tr>
 </table>
 
