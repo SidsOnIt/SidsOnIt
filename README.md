@@ -1,6 +1,6 @@
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px;">
-  <img src="profile-summary-card-output/2077/0-profile-details.svg" alt="Profile Details" width="69%" />
-  <img src="profile-summary-card-output/2077/2-most-commit-language.svg" alt="Most Commit Language" width="30%" />
+  <img src="profile-summary-card-output/2077/0-profile-details.svg" alt="Profile Details" width="67%" />
+  <img src="profile-summary-card-output/2077/2-most-commit-language.svg" alt="Most Commit Language" width="32%" />
 </div>
 
 <!--
