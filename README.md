@@ -6,8 +6,8 @@
     <td align="center" width="70" style="line-height: 1;"><img src="https://avatars.githubusercontent.com/u/79236386?s=280&v=4" height="40" width="40" alt="Dioxus" /><br>Dioxus</td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/surrealdb/default.svg" height="40" width="40" alt="SurrealDB" /><br>SurrealDB</td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.simpleicons.org/proxmox/E57000" height="40" width="40" alt="Proxmox" /><br>Proxmox</td>
-    <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/docker/default.svg" height="40" width="40" alt="Docker" /><br>Docker</td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" height="40" width="40" alt="Windows" /><br>Windows</td>
+    <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/android/default.svg" height="40" width="40" alt="Android" /><br>Android</td>
   </tr>
 </table>
 
