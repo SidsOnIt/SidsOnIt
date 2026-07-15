@@ -21,4 +21,4 @@ jobs:
         env:
           # Use your secret named "SUMMARY_CARD_TOKEN" 
           # Ensure this token has 'repo' scope access
-          GITHUB_TOKEN: ${{ secrets.DETAILS }}
+          GITHUB_TOKEN: ${{ secrets.PROFILE }}
