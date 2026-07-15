@@ -18,9 +18,6 @@
     <td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/css/default.svg" height="40" width="40" alt="CSS" /><br>CSS</td>
   </tr>
 </table>
-
-<br>
-
 <table>
   <!-- Section: UI Frameworks -->
   <tr>
@@ -30,9 +27,6 @@
     <td align="center" width="70"><img src="https://flet.dev/img/logo.svg" height="40" width="40" alt="Flet" /><br>Flet</td>
   </tr>
 </table>
-
-<br>
-
 <table>
   <!-- Section: Databases -->
   <tr>
