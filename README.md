@@ -3,13 +3,16 @@
   <img src="profile-summary-card-output/2077/2-most-commit-language.svg" alt="Most Commit Language" width="33%" />
 </div>
 
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center;      gap: 20px;">
+<div align="center">
+  
 
-  <div style="display: flex; flex-direction: column; justify-content: center; align-items:           center; gap: 20px;">
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/rust/default.svg"           width="50" alt="Rust" />
-   </div>
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/rust/default.svg"         width="50" alt="Rust" />
+  <br>Rust
+  
+  &nbsp;&nbsp; <!-- Adds a small space between items -->
 
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/dart/default.svg" width="50" alt="Dart" />
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/dart/default.svg"         width="50" alt="Dart" />
+  <br>Dart
 
 </div>
 
