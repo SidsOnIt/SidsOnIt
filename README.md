@@ -23,16 +23,18 @@
 
 </div>
 
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
-  <p style="text-align: center; font-weight: bold; height: 10; width: 50;" > Rust </p>
-  <p style="text-align: center; font-weight: bold; height: 10; width: 50;" > Dart </p>
-  <p style="text-align: center; font-weight: bold; height: 10; width: 50;" > Python </p>
-  <p style="text-align: center; font-weight: bold; height: 10; width: 50;" > PowerShell </p>
-  <p style="text-align: center; font-weight: bold; height: 10; width: 50;" > Bash </p>
-  <p style="text-align: center; font-weight: bold; height: 10; width: 50;" > Sql </p>
-  <p style="text-align: center; font-weight: bold; height: 10; width: 50;" > HTML </p>
-  <p style="text-align: center; font-weight: bold; height: 10; width: 50;" > CSS </p>
-</div>
+<table>
+  <tr>
+    <td><strong>Rust</strong></td>
+    <td><strong>Dart</strong></td>
+    <td><strong>Python</strong></td>
+    <td><strong>PowerShell</strong></td>
+    <td><strong>Bash</strong></td>
+    <td><strong>SQL</strong></td>
+    <td><strong>HTML</strong></td>
+    <td><strong>CSS</strong></td>
+  </tr>
+</table>
 
 
 <h3>Frameworks</h3>
