@@ -23,16 +23,16 @@
 
 </div>
 
-<table>
+<table align="center">
   <tr>
-    <td><strong>Rust</strong></td>
-    <td><strong>Dart</strong></td>
-    <td><strong>Python</strong></td>
-    <td><strong>PowerShell</strong></td>
-    <td><strong>Bash</strong></td>
-    <td><strong>SQL</strong></td>
-    <td><strong>HTML</strong></td>
-    <td><strong>CSS</strong></td>
+    <td style="width: 50px; text-align: center;"><strong>Rust</strong></td>
+    <td style="width: 50px; text-align: center;"><strong>Dart</strong></td>
+    <td style="width: 50px; text-align: center;"><strong>Python</strong></td>
+    <td style="width: 50px; text-align: center;"><strong>PowerShell</strong></td>
+    <td style="width: 50px; text-align: center;"><strong>Bash</strong></td>
+    <td style="width: 50px; text-align: center;"><strong>SQL</strong></td>
+    <td style="width: 50px; text-align: center;"><strong>HTML</strong></td>
+    <td style="width: 50px; text-align: center;"><strong>CSS</strong></td>
   </tr>
 </table>
 
