@@ -16,10 +16,6 @@
   <img src="profile-summary-card-output/2077/2-most-commit-language.svg" alt="Most Commit Language" width="32.5%" />
 </div>
 
-<p align="center" style="margin-bottom: 15px;">
-  <em>"Imagine Windows delcarative like NixOS but easy..."</em>
-</p>
-
 <table width="100%">
   <!-- Section: Languages (12 columns total: 1 title, 11 icons, 0 padded) -->
   <tr>
@@ -72,6 +68,8 @@
     <td colspan="9"></td> <!-- Invisible padding block -->
   </tr>
 </table>
+
+<br>
 
 <h3>Creative & Other Tools</h3
 <p align="left">
