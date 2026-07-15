@@ -23,7 +23,7 @@
 
 </div>
 
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px;">
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
   <p style="text-align: center; font-weight: bold; height: 10; width: 50;" > Rust </p>
   <p style="text-align: center; font-weight: bold; height: 10; width: 50;" > Dart </p>
   <p style="text-align: center; font-weight: bold; height: 10; width: 50;" > Python </p>
