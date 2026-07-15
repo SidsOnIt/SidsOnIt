@@ -23,7 +23,7 @@
 
 </div>
 
-<table alight="center">
+<table align="center">
   <tr>
     <td><strong>Rust</strong></td>
     <td><strong>Dart</strong></td>
