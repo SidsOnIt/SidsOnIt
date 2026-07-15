@@ -4,8 +4,10 @@
 </div>
 
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;      gap: 20px;">
-   
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/rust/default.svg" width="50" alt="Rust" />
+
+  <div style="display: flex; flex-direction: column; justify-content: center; align-items:           center; gap: 20px;">
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/rust/default.svg"           width="50" alt="Rust" />
+   </div>
 
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/dart/default.svg" width="50" alt="Dart" />
 
