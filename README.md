@@ -5,19 +5,13 @@
 
 
 <h3>Languages</h3>
+rust dart python powershell bash sql html css
 
-<div align="center">
+<h3>Frameworks</h3>
+dioxus flutter flet
 
-  <!-- Rust Icon -->
-  <div style="display: inline-block; margin: 10px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/rust/default.svg" width="50" height="50" />
-    <p style="margin: 5px 0 0 0;">Rust</p>
-  </div>
+<h3>Databases</h3>
+postgres sqlite surrealdb
 
-  <!-- Dart Icon -->
-  <div style="display: inline-block; margin: 10px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/dart/default.svg" width="50" height="50" />
-    <p style="margin: 5px 0 0 0;">Dart</p>
-  </div>
-
-</div>
+<Crates>
+Tokio Sqlx Rusqlite Axum Reqwest Serde Anyhow Chrono Uuid
