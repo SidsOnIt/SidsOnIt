@@ -12,7 +12,7 @@
 
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/python/default.svg"         width="50" alt="Python" />
 
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/powershell/                 default.svg" width="50" alt="PowerShell" />
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/powershell/default.svg" width="50" alt="PowerShell" />
 
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/bash/default.svg"           width="50" alt="Bash" />
 
