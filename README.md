@@ -5,18 +5,12 @@
 
 <div style="display: flex; flex-direction: row;">
   
-  <!-- Icon 1 -->
-  <a href="https://www.rust-lang.org/">
     <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/rust/default.svg" width="50" alt="Rust" />
-  </a>
   <br>Rust
   
   &nbsp;&nbsp;
 
-  <!-- Icon 2 -->
-  <a href="https://dart.dev/">
     <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/dart/default.svg" width="50" alt="Dart" />
-  </a>
   <br>Dart
 
 </div>
