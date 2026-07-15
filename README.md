@@ -4,7 +4,7 @@
 </div>
 
 <table>
-  <!-- Section: Languages -->
+  <!-- Section: Languages (10 columns total) -->
   <tr>
     <td valign="middle" align="left"><h3>Languages</h3></td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/rust/default.svg" height="40" width="40" alt="Rust" /><br>Rust</td>
@@ -18,19 +18,21 @@
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/css/default.svg" height="40" width="40" alt="CSS" /><br>CSS</td>
   </tr>
 
-  <!-- Section: UI Frameworks -->
+  <!-- Section: UI Frameworks (4 columns used, 6 padded) -->
   <tr>
     <td valign="middle" align="left"><h3>UI Frameworks</h3></td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://avatars.githubusercontent.com/u/79236386?s=280&v=4" height="40" width="40" alt="Dioxus" /><br>Dioxus</td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/flutter/default.svg" height="40" width="40" alt="Flutter" /><br>Flutter</td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://flet.dev/img/logo.svg" height="40" width="40" alt="Flet" /><br>Flet</td>
+    <td colspan="6"></td> <!-- Invisible padding block -->
   </tr>
 
-  <!-- Section: Databases -->
+  <!-- Section: Databases (4 columns used, 6 padded) -->
   <tr>
     <td valign="middle" align="left"><h3>Databases</h3></td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/postgresql/default.svg" height="40" width="40" alt="Postgres" /><br>Postgres</td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://skillicons.dev/icons?i=sqlite" height="40" width="40" alt="Sqlite" /><br>SQLite</td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/surrealdb/default.svg" height="40" width="40" alt="SurrealDB" /><br>SurrealDB</td>
+    <td colspan="6"></td> <!-- Invisible padding block -->
   </tr>
 </table>
