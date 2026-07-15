@@ -85,6 +85,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" width="30" title="GIMP" alt="GIMP" style="margin: 5px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wondershare_filmora_logo.svg/3840px-Wondershare_filmora_logo.svg.png" width="30" title="Filmora" alt="Filmora" style="margin: 5px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/DaVinci_Resolve_Studio.png/500px-DaVinci_Resolve_Studio.png" width="30" title="DaVinci Resolve" alt="DaVinci Resolve" style="margin: 5px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/FreeCAD-symbol.svg/1280px-FreeCAD-symbol.svg.png" width="30" title="FreeCAD" alt="Plasticity" style="margin: 5px;">
   <img src="https://upload.wikimedia.org/wikipedia/en/3/38/Plasticity_logo.webp" width="30" title="Plasticity" alt="Plasticity" style="margin: 5px;">
   <img src="https://wp-cdn.pugetsystems.com/2023/02/FL-Studio-Logo-Icon.png" width="30" title="FL Studio" alt="FL Studio" style="margin: 5px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/OBS_Studio_Logo.svg/3840px-OBS_Studio_Logo.svg.png" width="30" title="OBS Studio" alt="OBS Studio" style="margin: 5px;">
