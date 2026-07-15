@@ -1,5 +1,5 @@
-![My Languages](profile-summary-card-output/2077/0-profile-details.svg)
-![My Languages](profile-summary-card-output/2077/2-most-commit-language.svg)
+<img src="profile-summary-card-output/2077/0-profile-details.svg" width="400" />
+<img src="profile-summary-card-output/2077/2-most-commit-language.svg" width="400" />
 
 <!--
 **SidsOnIt/SidsOnIt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
