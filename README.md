@@ -3,16 +3,17 @@
   <img src="profile-summary-card-output/2077/2-most-commit-language.svg" alt="Most Commit Language" width="33%" />
 </div>
 
+
 <h3> "Languages" </h3>
 
 <!-- RUST -->
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px;">
+  
   <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/rust/default.svg" width="50" height="50" />
   <p>Rust</p>
 </div>
 <!-- DART -->
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px;">
   <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/dart/default.svg" width="50" height="50" />
   <p>Dart</p>
