@@ -4,23 +4,22 @@
 </div>
 
 <table>
-  <!-- Section: Languages (11 columns total: 10 used, 1 padded) -->
+  <!-- Section: Languages (11 columns total: 1 title + 10 icons) -->
   <tr>
     <td valign="middle" align="left"><h3>Languages</h3></td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/rust/default.svg" height="40" width="40" alt="Rust" /><br>Rust</td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/dart/default.svg" height="40" width="40" alt="Dart" /><br>Dart</td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/python/default.svg" height="40" width="40" alt="Python" /><br>Python</td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/nixos/default.svg" height="40" width="40" alt="Nix" /><br>Nix</td>
-    <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/nushell/default.svg" height="40" width="40" alt="Bash" /><br>NuShell</td>
+    <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/nushell/default.svg" height="40" width="40" alt="NuShell" /><br>NuShell</td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/powershell/default.svg" height="40" width="40" alt="PowerShell" /><br>PowerShell</td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/bash/default.svg" height="40" width="40" alt="Bash" /><br>Bash</td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/azure-sql-database/default.svg" height="40" width="40" alt="SQL" /><br>SQL</td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/html5/default.svg" height="40" width="40" alt="HTML" /><br>HTML</td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/css/default.svg" height="40" width="40" alt="CSS" /><br>CSS</td>
-    <td></td> <!-- Invisible padding block -->
   </tr>
 
-  <!-- Section: Platforms (11 columns total: 11 used, 0 padded) -->
+  <!-- Section: Platforms (11 columns total: 1 title + 10 icons) -->
   <tr>
     <td valign="middle" align="left"><h3>Platforms</h3></td>
     <td align="center" width="70" style="line-height: 1;"><img src="https://cdn.simpleicons.org/proxmox/E57000" height="40" width="40" alt="Proxmox" /><br>Proxmox</td>
