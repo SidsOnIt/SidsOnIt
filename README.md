@@ -4,7 +4,8 @@
 </div>
 
 <div align="center">
-  
+
+ <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/rust/default.svg" width="50" alt="Rust" />
 
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/dart/default.svg" width="50" alt="Dart" />
