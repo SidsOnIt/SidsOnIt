@@ -1,13 +1,3 @@
-> Sids Living Resume
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 25px; margin: 20px 0; padding: 15px; background-color: rgba(128, 128, 128, 0.05); border-radius: 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/rust/default.svg" width="45" title="Rust" alt="Rust">
-  <img src="https://avatars.githubusercontent.com/u/79236386?s=280&v=4" width="45" title="Dioxus" alt="Dioxus">
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/surrealdb/default.svg" width="45" title="SurrealDB" alt="SurrealDB">
-  <img src="https://cdn.simpleicons.org/proxmox/E57000" width="45" title="Proxmox" alt="Proxmox">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="45" title="Windows" alt="Windows">
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/android/default.svg" width="45" title="Android" alt="Android">
-</div>
-
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px; margin: 15px 0;">
   <img src="profile-summary-card-output/2077/0-profile-details.svg" alt="Profile Details" width="66.5%" />
   <img src="profile-summary-card-output/2077/2-most-commit-language.svg" alt="Most Commit Language" width="32.5%" />
