@@ -60,25 +60,22 @@
 
 <h3>Self-Hosted & FOSS</h3>
 <p align="left">
-  <img src="https://cdn.simpleicons.org/homeassistant/41BDF5" width="30" title="Homepage" alt="Homepage" style="margin: 5px;">
-  <img src="https://cdn.simpleicons.org/nginx/009639" width="30" title="Nginx" alt="Nginx" style="margin: 5px;">
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="30" title="Docker" alt="Docker" style="margin: 5px;">
-  <img src="https://cdn.simpleicons.org/ollama/000000" width="30" title="Ollama" alt="Ollama" style="margin: 5px;">
-  <img src="https://cdn.simpleicons.org/homeassistant/41BDF5" width="30" title="Home Assistant" alt="Home Assistant" style="margin: 5px;">
-  <img src="https://cdn.simpleicons.org/n8n/FF6D5A" width="30" title="n8n" alt="n8n" style="margin: 5px;">
-  <img src="https://cdn.simpleicons.org/ubiquiti/0559C9" width="30" title="UniFi" alt="UniFi" style="margin: 5px;">
-  <img src="https://cdn.simpleicons.org/vaultwarden/175DDC" width="30" title="Vaultwarden" alt="Vaultwarden" style="margin: 5px;">
-  <img src="https://cdn.simpleicons.org/forgejo/FB923C" width="30" title="Forgejo" alt="Forgejo" style="margin: 5px;">
-  <img src="https://cdn.simpleicons.org/uptimekuma/58D68D" width="30" title="Uptime Kuma" alt="Uptime Kuma" style="margin: 5px;">
-  <img src="https://cdn.simpleicons.org/adguard/68BC71" width="30" title="AdGuard Home" alt="AdGuard Home" style="margin: 5px;">
-  <img src="https://cdn.simpleicons.org/immich/06B6D4" width="30" title="Immich" alt="Immich" style="margin: 5px;">
-  <img src="https://cdn.simpleicons.org/files/000000" width="30" title="File Browser" alt="File Browser" style="margin: 5px;">
-  <img src="https://cdn.simpleicons.org/qiskit/6929C4" width="30" title="Quantum" alt="Quantum" style="margin: 5px;">
-  <img src="https://cdn.simpleicons.org/linux/000000" width="30" title="ZimaOS" alt="ZimaOS" style="margin: 5px;">
-  <img src="https://cdn.simpleicons.org/wireguard/88171A" width="30" title="WireGuard" alt="WireGuard" style="margin: 5px;">
-  <img src="https://cdn.simpleicons.org/authentik/FD4B2D" width="30" title="Authentik" alt="Authentik" style="margin: 5px;">
-  <img src="https://cdn.simpleicons.org/nextcloud/0082C9" width="30" title="Nextcloud" alt="Nextcloud" style="margin: 5px;">
-  <img src="https://cdn.simpleicons.org/wordpress/21759B" width="30" title="WordPress" alt="WordPress" style="margin: 5px;">
+  <img src="icons/homepage.svg" width="30" title="Homepage" alt="Homepage" style="margin: 5px;">
+  <img src="icons/nginx.svg" width="30" title="Nginx" alt="Nginx" style="margin: 5px;">
+  <img src="icons/docker.svg" width="30" title="Docker" alt="Docker" style="margin: 5px;">
+  <img src="icons/ollama.svg" width="30" title="Ollama" alt="Ollama" style="margin: 5px;">
+  <img src="icons/homeassisstant.svg" width="30" title="Home Assistant" alt="Home Assistant" style="margin: 5px;">
+  <img src="icons/n8n.svg" width="30" title="n8n" alt="n8n" style="margin: 5px;">
+  <img src="icons/unifi.svg" width="30" title="UniFi" alt="UniFi" style="margin: 5px;">
+  <img src="icons/vaultwarden.svg" width="30" title="Vaultwarden" alt="Vaultwarden" style="margin: 5px;">
+  <img src="icons/forgejo.svg" width="30" title="Forgejo" alt="Forgejo" style="margin: 5px;">
+  <img src="icons/uptimekuma.svg" width="30" title="Uptime Kuma" alt="Uptime Kuma" style="margin: 5px;">
+  <img src="icons/adguard.svg" width="30" title="AdGuard Home" alt="AdGuard Home" style="margin: 5px;">
+  <img src="icons/immich.svg" width="30" title="Immich" alt="Immich" style="margin: 5px;">
+  <img src="icons/filebrowserquantum.svg" width="30" title="File Browser" alt="File Browser" style="margin: 5px;">
+  <img src="icons/wireguard.svg" width="30" title="WireGuard" alt="WireGuard" style="margin: 5px;">
+  <img src="icons/nextcloud.svg" width="30" title="Nextcloud" alt="Nextcloud" style="margin: 5px;">
+  <img src="icons/wordpress.svg" width="30" title="WordPress" alt="WordPress" style="margin: 5px;">
 </p>
 
 <h3>Creative Tools</h3>
