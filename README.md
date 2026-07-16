@@ -95,6 +95,8 @@
 
 <h3>Online Platforms</h3>
 <p align="left">
+  <img src="icons/ninjaone.svg" width="30" title="Ninja One" alt="Ninja One" style="margin: 5px;">
+  <img src="icons/solarwinds.svg" width="30" title="Solar Winds" alt="Solar Winds" style="margin: 5px;">
   <img src="icons/wix.svg" width="30" title="Wix" alt="Wix" style="margin: 5px;">
   <img src="icons/squarespace.svg" width="30" title="Squarespace" alt="Squarespace" style="margin: 5px;">
   <img src="icons/zohoone.svg" width="30" title="Zoho One" alt="Zoho One" style="margin: 5px;">
@@ -103,5 +105,4 @@
   <img src="icons/asana.svg" width="30" title="Asana" alt="Asana" style="margin: 5px;">
   <img src="icons/clickup.svg" width="30" title="Clickup" alt="Clickup" style="margin: 5px;">
   <img src="icons/hubspot.svg" width="30" title="HubSpot" alt="HubSpot" style="margin: 5px;">
-  <img src="icons/solarwinds.svg" width="30" title="Solar Winds" alt="Solar Winds" style="margin: 5px;">
 </p>
