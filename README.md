@@ -28,10 +28,10 @@
     <td align="center" style="line-height: 1;"><img src="icons/debian.svg" height="40" width="40" alt="Debian" /><br>Debian</td>
     <td align="center" style="line-height: 1;"><img src="icons/ubuntu.svg" height="40" width="40" alt="Ubuntu" /><br>Ubuntu</td>
     <td align="center" style="line-height: 1;"><img src="icons/nix.svg" height="40" width="40" alt="NixOS" /><br>NixOS</td>
-    <td align="center" style="line-height: 1;"><img src="icons/windows" height="40" width="40" alt="Windows" /><br>Windows</td>
-    <td align="center" style="line-height: 1;"><img src="icons/android" height="40" width="40" alt="Android" /><br>Android</td>
-    <td align="center" style="line-height: 1;"><img src="icons/macos" height="40" width="40" alt="macOS" /><br>macOS</td>
-    <td align="center" style="line-height: 1;"><img src="icons/ios" height="40" width="40" alt="iOS" /><br>iOS</td>
+    <td align="center" style="line-height: 1;"><img src="icons/windows.svg" height="40" width="40" alt="Windows" /><br>Windows</td>
+    <td align="center" style="line-height: 1;"><img src="icons/android.svg" height="40" width="40" alt="Android" /><br>Android</td>
+    <td align="center" style="line-height: 1;"><img src="icons/macos.svg" height="40" width="40" alt="macOS" /><br>macOS</td>
+    <td align="center" style="line-height: 1;"><img src="icons/ios.svg" height="40" width="40" alt="iOS" /><br>iOS</td>
     <td align="center" style="line-height: 1;"><img src="icons/browser.svg" height="40" width="40" alt="Web" /><br>Web</td>
     <td align="center" style="line-height: 1;"><img src="icons/docker.svg" height="40" width="40" alt="Web" /><br>Docker</td>
     <td align="center" style="line-height: 1;"><img src="icons/embedded.svg" height="40" width="40" alt="Embedded" /><br>Embedded</td>
