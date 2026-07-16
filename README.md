@@ -106,3 +106,5 @@
   <img src="icons/clickup.svg" width="30" title="Clickup" alt="Clickup" style="margin: 5px;">
   <img src="icons/hubspot.svg" width="30" title="HubSpot" alt="HubSpot" style="margin: 5px;">
 </p>
+
+Disclaimer: I am not affiliated with any of the listed brands, these are simply technologies I use.
