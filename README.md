@@ -64,7 +64,7 @@
   <img src="icons/nginx.svg" width="30" title="Nginx" alt="Nginx" style="margin: 5px;">
   <img src="icons/docker.svg" width="30" title="Docker" alt="Docker" style="margin: 5px;">
   <img src="icons/ollama.svg" width="30" title="Ollama" alt="Ollama" style="margin: 5px;">
-  <img src="icons/homeassisstant.svg" width="30" title="Home Assistant" alt="Home Assistant" style="margin: 5px;">
+  <img src="icons/homeassistant.svg" width="30" title="Home Assistant" alt="Home Assistant" style="margin: 5px;">
   <img src="icons/n8n.svg" width="30" title="n8n" alt="n8n" style="margin: 5px;">
   <img src="icons/unifi.svg" width="30" title="UniFi" alt="UniFi" style="margin: 5px;">
   <img src="icons/vaultwarden.svg" width="30" title="Vaultwarden" alt="Vaultwarden" style="margin: 5px;">
