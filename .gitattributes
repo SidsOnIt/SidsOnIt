@@ -1,6 +1,0 @@
-# Ignore virtual environments so they don't skew stats
-venv/* linguist-vendored
-.env/* linguist-vendored
-
-# Or ignore specific workflow script folders
-.github/scripts/*.py linguist-generated
