@@ -60,19 +60,20 @@
 
 <h3>FOSS</h3>
 <p align="left">
-  <img src="icons/homepage.svg" width="30" title="Homepage" alt="Homepage" style="margin: 5px;">
+  <img src="icons/unifi.svg" width="30" title="UniFi" alt="UniFi" style="margin: 5px;">
+  <img src="icons/proxmox.svg" width="30" title="ProxMox" alt="ProxMox" style="margin: 5px;">
+  <img src="icons/truenas.svg" width="30" title="Truenas" alt="Truenas" style="margin: 5px;">
   <img src="icons/docker.svg" width="30" title="Docker" alt="Docker" style="margin: 5px;">
   <img src="icons/nginx.svg" width="30" title="Nginx" alt="Nginx" style="margin: 5px;">
-  <img src="icons/unifi.svg" width="30" title="UniFi" alt="UniFi" style="margin: 5px;">
   <img src="icons/wireguard.svg" width="30" title="WireGuard" alt="WireGuard" style="margin: 5px;">
+  <img src="icons/nextcloud.svg" width="30" title="Nextcloud" alt="Nextcloud" style="margin: 5px;">
+  <img src="icons/homepage.svg" width="30" title="Homepage" alt="Homepage" style="margin: 5px;">
   <img src="icons/adguard.svg" width="30" title="AdGuard Home" alt="AdGuard Home" style="margin: 5px;">
-  <img src="icons/uptimekuma.svg" width="30" title="Uptime Kuma" alt="Uptime Kuma" style="margin: 5px;">
   <img src="icons/vaultwarden.svg" width="30" title="Vaultwarden" alt="Vaultwarden" style="margin: 5px;">
   <img src="icons/forgejo.svg" width="30" title="Forgejo" alt="Forgejo" style="margin: 5px;">
   <img src="icons/n8n.svg" width="30" title="n8n" alt="n8n" style="margin: 5px;">
-  <img src="icons/homeassistant.svg" width="30" title="Home Assistant" alt="Home Assistant" style="margin: 5px;">
   <img src="icons/ollama.svg" width="30" title="Ollama" alt="Ollama" style="margin: 5px;">
-  <img src="icons/nextcloud.svg" width="30" title="Nextcloud" alt="Nextcloud" style="margin: 5px;">
+  <img src="icons/homeassistant.svg" width="30" title="Home Assistant" alt="Home Assistant" style="margin: 5px;">
   <img src="icons/immich.svg" width="30" title="Immich" alt="Immich" style="margin: 5px;">
   <img src="icons/filebrowserquantum.svg" width="30" title="File Browser" alt="File Browser" style="margin: 5px;">
   <img src="icons/wordpress.svg" width="30" title="WordPress" alt="WordPress" style="margin: 5px;">
