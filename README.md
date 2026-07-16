@@ -83,21 +83,21 @@
 
 <h3>Creative Tools</h3>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/affinity/default.svg" width="30" title="Affinity" alt="Affinity" style="margin: 5px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" width="30" title="GIMP" alt="GIMP" style="margin: 5px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wondershare_filmora_logo.svg/3840px-Wondershare_filmora_logo.svg.png" width="30" title="Filmora" alt="Filmora" style="margin: 5px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/DaVinci_Resolve_Studio.png/500px-DaVinci_Resolve_Studio.png" width="30" title="DaVinci Resolve" alt="DaVinci Resolve" style="margin: 5px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/FreeCAD-symbol.svg/1280px-FreeCAD-symbol.svg.png" width="30" title="FreeCAD" alt="FreeCAD" style="margin: 5px;">
-  <img src="https://upload.wikimedia.org/wikipedia/en/3/38/Plasticity_logo.webp" width="30" title="Plasticity" alt="Plasticity" style="margin: 5px;">
-  <img src="https://wp-cdn.pugetsystems.com/2023/02/FL-Studio-Logo-Icon.png" width="30" title="FL Studio" alt="FL Studio" style="margin: 5px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/OBS_Studio_Logo.svg/3840px-OBS_Studio_Logo.svg.png" width="30" title="OBS Studio" alt="OBS Studio" style="margin: 5px;">
+  <img src="icons/affinity.svg" width="30" title="Affinity" alt="Affinity" style="margin: 5px;">
+  <img src="icons/gimp.svg" width="30" title="GIMP" alt="GIMP" style="margin: 5px;">
+  <img src="icons/filmora.svg" width="30" title="Filmora" alt="Filmora" style="margin: 5px;">
+  <img src="icons/resolve.svg" width="30" title="DaVinci Resolve" alt="DaVinci Resolve" style="margin: 5px;">
+  <img src="icons/freecad.svg" width="30" title="FreeCAD" alt="FreeCAD" style="margin: 5px;">
+  <img src="icons/plasticity.svg" width="30" title="Plasticity" alt="Plasticity" style="margin: 5px;">
+  <img src="icons/flstudio.svg" width="30" title="FL Studio" alt="FL Studio" style="margin: 5px;">
+  <img src="icons/obs.svg" width="30" title="OBS Studio" alt="OBS Studio" style="margin: 5px;">
 </p>
 
 <h3>Online Platforms</h3>
 <p align="left">
-  <img src="https://cdn.simpleicons.org/wix/000000" width="30" title="Wix" alt="Wix" style="margin: 5px;">
-  <img src="https://cdn.simpleicons.org/squarespace/000000" width="30" title="Squarespace" alt="Squarespace" style="margin: 5px;">
-  <img src="https://cdn.simpleicons.org/zoho/E31837" width="30" title="Zoho One" alt="Zoho One" style="margin: 5px;">
-  <img src="https://cdn.simpleicons.org/microsoft365/D83B01" width="30" title="Microsoft O365" alt="Microsoft O365" style="margin: 5px;">
-  <img src="https://cdn.simpleicons.org/hubspot/FF7A59" width="30" title="HubSpot" alt="HubSpot" style="margin: 5px;">
+  <img src="icons/wix.svg" width="30" title="Wix" alt="Wix" style="margin: 5px;">
+  <img src="icons/squarespace.svg" width="30" title="Squarespace" alt="Squarespace" style="margin: 5px;">
+  <img src="icons/zohoone.svg" width="30" title="Zoho One" alt="Zoho One" style="margin: 5px;">
+  <img src="icons/o365.svg" width="30" title="Microsoft O365" alt="Microsoft O365" style="margin: 5px;">
+  <img src="icons/hubspot.svg" width="30" title="HubSpot" alt="HubSpot" style="margin: 5px;">
 </p>
