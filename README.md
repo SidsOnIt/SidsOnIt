@@ -7,7 +7,7 @@
   <!-- Section: Languages (12 columns total: 1 title, 11 icons, 0 padded) -->
   <tr>
     <td valign="middle" align="left"><h3>Languages</h3></td>
-    <td align="center" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/rust/default.svg" height="40" width="40" alt="Rust" /><br>Rust</td>
+    <td align="center" style="line-height: 1;"><img src="icons/rust.svg" height="40" width="40" alt="Rust" /><br>Rust</td>
     <td align="center" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/dart/default.svg" height="40" width="40" alt="Dart" /><br>Dart</td>
     <td align="center" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/python/default.svg" height="40" width="40" alt="Python" /><br>Python</td>
     <td align="center" style="line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/nixos/default.svg" height="40" width="40" alt="Nix" /><br>Nix</td>
