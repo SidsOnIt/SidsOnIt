@@ -1,4 +1,4 @@
-name: GitHub-PFP-Card
+name: gen-profile-card
 on:
   schedule:
     # Execute every 24 hours
