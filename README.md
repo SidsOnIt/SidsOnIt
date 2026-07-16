@@ -23,6 +23,7 @@
   <!-- Section: Platforms (12 columns total: 1 title, 11 icons, 0 padded) -->
   <tr>
     <td valign="middle" align="left"><h3>Platforms</h3></td>
+    <td align="center" style="line-height: 1;"><img src="icons/linux.svg" height="40" width="40" alt="Linux" /><br>Proxmox</td>
     <td align="center" style="line-height: 1;"><img src="icons/proxmox.svg" height="40" width="40" alt="Proxmox" /><br>Proxmox</td>
     <td align="center" style="line-height: 1;"><img src="icons/truenas.svg" height="40" width="40" alt="TrueNAS" /><br>TrueNAS</td>
     <td align="center" style="line-height: 1;"><img src="icons/debian.svg" height="40" width="40" alt="Debian" /><br>Debian</td>
