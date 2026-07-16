@@ -68,6 +68,7 @@
   <img src="icons/wireguard.svg" width="30" title="WireGuard" alt="WireGuard" style="margin: 5px;">
   <img src="icons/nextcloud.svg" width="30" title="Nextcloud" alt="Nextcloud" style="margin: 5px;">
   <img src="icons/homepage.svg" width="30" title="Homepage" alt="Homepage" style="margin: 5px;">
+  <img src="icons/uptimekuma.svg" width="30" title="Uptime Kuma" alt="Uptime Kuma" style="margin: 5px;">
   <img src="icons/adguard.svg" width="30" title="AdGuard Home" alt="AdGuard Home" style="margin: 5px;">
   <img src="icons/vaultwarden.svg" width="30" title="Vaultwarden" alt="Vaultwarden" style="margin: 5px;">
   <img src="icons/forgejo.svg" width="30" title="Forgejo" alt="Forgejo" style="margin: 5px;">
@@ -96,6 +97,10 @@
   <img src="icons/wix.svg" width="30" title="Wix" alt="Wix" style="margin: 5px;">
   <img src="icons/squarespace.svg" width="30" title="Squarespace" alt="Squarespace" style="margin: 5px;">
   <img src="icons/zohoone.svg" width="30" title="Zoho One" alt="Zoho One" style="margin: 5px;">
-  <img src="icons/o365.svg" width="30" title="Microsoft O365" alt="Microsoft O365" style="margin: 5px;">
+  <img src="icons/o365.svg" width="30" title="Microsoft O365" alt="Microsoft O365"style="margin: 5px;">
+  <img src="icons/teams.svg" width="30" title="Teams" alt="Teams" style="margin: 5px;">
+  <img src="icons/asana.svg" width="30" title="Asana" alt="Asana" style="margin: 5px;">
+  <img src="icons/clickup.svg" width="30" title="Clickup" alt="Clickup" style="margin: 5px;">
   <img src="icons/hubspot.svg" width="30" title="HubSpot" alt="HubSpot" style="margin: 5px;">
+  <img src="icons/solarwinds.svg" width="30" title="Solar Winds" alt="Solar Winds" style="margin: 5px;">
 </p>
