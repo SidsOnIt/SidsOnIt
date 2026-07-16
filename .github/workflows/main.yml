@@ -15,4 +15,4 @@ jobs:
       - uses: actions/checkout@v4
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.INFO }}
+          GITHUB_TOKEN: ${{ secrets.PROFILE }}
