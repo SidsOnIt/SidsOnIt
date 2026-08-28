@@ -9,14 +9,14 @@
   <!-- Table Section -->
   <table width="100%" style="line-height: normal; border-collapse: collapse;">
     <tr>
-      <td valign="middle" align="left"><h3>Current Stack (Shallow)</h3></td>
+      <td valign="middle" align="left"><h3>Stack</h3></td>
       <td align="center"><img src="icons/rust.svg" height="40" width="40" alt="Rust" /><br>Rust</td>
       <td align="center"><img src="icons/dioxus.svg" height="40" width="40" alt="Dioxus" /><br>Dioxus</td>
       <td align="center"><img src="icons/css.svg" height="40" width="40" alt="CSS" /><br>CSS</td>
       <td align="center"><img src="icons/sql.svg" height="40" width="40" alt="SQL" /><br>SQL</td>
     </tr>
     <tr>
-      <td valign="middle" align="left"><h3>Platforms</h3></td>
+      <td valign="middle" align="left"><h3>Platter</h3></td>
       <td align="center"><img src="icons/linux.svg" height="40" width="40" alt="Linux" /><br>Linux</td>
       <td align="center"><img src="icons/windows.svg" height="40" width="40" alt="Windows" /><br>Windows</td>
       <td align="center"><img src="icons/macos.svg" height="40" width="40" alt="macOS" /><br>macOS</td>
@@ -27,7 +27,7 @@
       <td align="center"><img src="icons/docker.svg" height="40" width="40" alt="Docker" /><br>Docker</td>
     </tr>
     <tr>
-      <td valign="middle" align="left"><h3>Databases</h3></td>
+      <td valign="middle" align="left"><h3>Dbs</h3></td>
       <td align="center"><img src="icons/postgres.svg" height="40" width="40" alt="Postgres" /><br>Postgres</td>
       <td align="center"><img src="icons/sqlite.svg" height="40" width="40" alt="Sqlite" /><br>SQLite</td>
     </tr>
