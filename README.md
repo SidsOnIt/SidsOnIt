@@ -26,11 +26,6 @@
       <td align="center"><img src="icons/browser.svg" height="40" width="40" alt="Web" /><br>WASM</td>
       <td align="center"><img src="icons/docker.svg" height="40" width="40" alt="Docker" /><br>Docker</td>
     </tr>
-    <tr>
-      <td valign="middle" align="left"><h3>Dbs</h3></td>
-      <td align="center"><img src="icons/postgres.svg" height="40" width="40" alt="Postgres" /><br>Postgres</td>
-      <td align="center"><img src="icons/sqlite.svg" height="40" width="40" alt="Sqlite" /><br>SQLite</td>
-    </tr>
   </table>
 
   <!-- FOSS Section -->
