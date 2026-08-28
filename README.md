@@ -9,34 +9,21 @@
   <!-- Table Section -->
   <table width="100%" style="line-height: normal; border-collapse: collapse;">
     <tr>
-      <td valign="middle" align="left"><h3>Languages</h3></td>
+      <td valign="middle" align="left"><h3>Main Languages</h3></td>
       <td align="center"><img src="icons/rust.svg" height="40" width="40" alt="Rust" /><br>Rust</td>
-      <td align="center"><img src="icons/dart.svg" height="40" width="40" alt="Dart" /><br>Dart</td>
-      <td align="center"><img src="icons/python.svg" height="40" width="40" alt="Python" /><br>Python</td>
-      <td align="center"><img src="icons/nix.svg" height="40" width="40" alt="Nix" /><br>Nix</td>
-      <td align="center"><img src="icons/nushell.svg" height="40" width="40" alt="NuShell" /><br>NuShell</td>
-      <td align="center"><img src="icons/powershell.svg" height="40" width="40" alt="PowerShell" /><br>PowerShell</td>
-      <td align="center"><img src="icons/bash.svg" height="40" width="40" alt="Bash" /><br>Bash</td>
-      <td align="center"><img src="icons/sql.svg" height="40" width="40" alt="SQL" /><br>SQL</td>
-      <td align="center"><img src="icons/html.svg" height="40" width="40" alt="HTML" /><br>HTML</td>
       <td align="center"><img src="icons/css.svg" height="40" width="40" alt="CSS" /><br>CSS</td>
-      <td align="center"><img src="icons/git.svg" height="40" width="40" alt="Git" /><br>Git</td>
+      <td align="center"><img src="icons/sql.svg" height="40" width="40" alt="SQL" /><br>SQL</td>
     </tr>
     <tr>
       <td valign="middle" align="left"><h3>Platforms</h3></td>
       <td align="center"><img src="icons/linux.svg" height="40" width="40" alt="Linux" /><br>Linux</td>
-      <td align="center"><img src="icons/proxmox.svg" height="40" width="40" alt="Proxmox" /><br>Proxmox</td>
-      <td align="center"><img src="icons/truenas.svg" height="40" width="40" alt="TrueNAS" /><br>TrueNAS</td>
-      <td align="center"><img src="icons/debian.svg" height="40" width="40" alt="Debian" /><br>Debian</td>
-      <td align="center"><img src="icons/ubuntu.svg" height="40" width="40" alt="Ubuntu" /><br>Ubuntu</td>
-      <td align="center"><img src="icons/nix.svg" height="40" width="40" alt="NixOS" /><br>NixOS</td>
       <td align="center"><img src="icons/windows.svg" height="40" width="40" alt="Windows" /><br>Windows</td>
-      <td align="center"><img src="icons/android.svg" height="40" width="40" alt="Android" /><br>Android</td>
       <td align="center"><img src="icons/macos.svg" height="40" width="40" alt="macOS" /><br>macOS</td>
+      <td align="center"><img src="icons/android.svg" height="40" width="40" alt="Android" /><br>Android</td>
       <td align="center"><img src="icons/ios.svg" height="40" width="40" alt="iOS" /><br>iOS</td>
-      <td align="center"><img src="icons/browser.svg" height="40" width="40" alt="Web" /><br>Web</td>
-      <td align="center"><img src="icons/docker.svg" height="40" width="40" alt="Docker" /><br>Docker</td>
       <td align="center"><img src="icons/embedded.svg" height="40" width="40" alt="Embedded" /><br>Embedded</td>
+      <td align="center"><img src="icons/browser.svg" height="40" width="40" alt="Web" /><br>WASM</td>
+      <td align="center"><img src="icons/docker.svg" height="40" width="40" alt="Docker" /><br>Docker</td>
     </tr>
     <tr>
       <td valign="middle" align="left"><h3>UI Frameworks</h3></td>
@@ -48,7 +35,6 @@
       <td valign="middle" align="left"><h3>Databases</h3></td>
       <td align="center"><img src="icons/postgres.svg" height="40" width="40" alt="Postgres" /><br>Postgres</td>
       <td align="center"><img src="icons/sqlite.svg" height="40" width="40" alt="Sqlite" /><br>SQLite</td>
-      <td align="center"><img src="icons/surrealdb.svg" height="40" width="40" alt="SurrealDB" /><br>SurrealDB</td>
     </tr>
   </table>
 
