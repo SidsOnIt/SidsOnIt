@@ -19,8 +19,8 @@
       <td align="center"><img src="icons/linux.svg" height="40" width="40" alt="Linux" /><br>Linux</td>
       <td align="center"><img src="icons/windows.svg" height="40" width="40" alt="Windows" /><br>Windows</td>
       <td align="center"><img src="icons/macos.svg" height="40" width="40" alt="macOS" /><br>macOS</td>
-      <td align="center"><img src="icons/android.svg" height="40" width="40" alt="Android" /><br>Android</td>
       <td align="center"><img src="icons/ios.svg" height="40" width="40" alt="iOS" /><br>iOS</td>
+      <td align="center"><img src="icons/android.svg" height="40" width="40" alt="Android" /><br>Android</td>
       <td align="center"><img src="icons/embedded.svg" height="40" width="40" alt="Embedded" /><br>Embedded</td>
       <td align="center"><img src="icons/browser.svg" height="40" width="40" alt="Web" /><br>WASM</td>
       <td align="center"><img src="icons/docker.svg" height="40" width="40" alt="Docker" /><br>Docker</td>
