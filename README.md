@@ -9,11 +9,11 @@
   <!-- Table Section -->
   <table width="100%" style="line-height: normal; border-collapse: collapse;">
     <tr>
-      <td valign="middle" align="left"><h3>Current Stack</h3></td>
+      <td valign="middle" align="left"><h3>Current Stack (Shallow)</h3></td>
       <td align="center"><img src="icons/rust.svg" height="40" width="40" alt="Rust" /><br>Rust</td>
+      <td align="center"><img src="icons/dioxus.svg" height="40" width="40" alt="Dioxus" /><br>Dioxus</td>
       <td align="center"><img src="icons/css.svg" height="40" width="40" alt="CSS" /><br>CSS</td>
       <td align="center"><img src="icons/sql.svg" height="40" width="40" alt="SQL" /><br>SQL</td>
-      <td align="center"><img src="icons/dioxus.svg" height="40" width="40" alt="Dioxus" /><br>Dioxus</td>
     </tr>
     <tr>
       <td valign="middle" align="left"><h3>Platforms</h3></td>
